@@ -1,44 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post 1 | Academic</title>
-    <link>http://localhost:1313/category/post-1/</link>
-      <atom:link href="http://localhost:1313/category/post-1/index.xml" rel="self" type="application/rss+xml" />
-    <description>Post 1</description>
+    <title>LaTEx | Academic</title>
+    <link>http://localhost:1313/tag/latex/</link>
+      <atom:link href="http://localhost:1313/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTEx</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Post 1</title>
-      <link>http://localhost:1313/category/post-1/</link>
+      <title>LaTEx</title>
+      <link>http://localhost:1313/tag/latex/</link>
     </image>
     
     <item>
-      <title>How was my first week</title>
-      <link>http://localhost:1313/post/1_week/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/1_week/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;last week I worked 4 shifts and did 2 laboratory works but I did them late and because of this I did not receive a grade&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I also missed a lot of classes, but not because of laziness but because I was sick&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Since last week I have been reading textbooks on my subjects&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;It’s still hard both at school and at work, but I can handle it&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LaTex</title>
+      <title>Version Control Git</title>
       <link>http://localhost:1313/post/latex/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/latex/</guid>
@@ -71,29 +46,6 @@ Organizations around the world use Git for version control.&lt;/p&gt;
 &lt;p&gt;· To work with expressions that span more than one line (that is, for neat text wrapping or calculations), you can use the \ delimiter.&lt;/p&gt;
 &lt;p&gt;· Greek and lemniscate letters, the infinity symbol and others are entered as tags.&lt;/p&gt;
 &lt;p&gt;After learning the basics and basic tags of the language, entering and subsequently editing formulas becomes a simple and understandable process, and Sergei Lvovsky’s textbook will help in learning the simple syntax of LaTex. The book is free and available here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Version Control Git</title>
-      <link>http://localhost:1313/post/version-control-git/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/version-control-git/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Git is a Version Control System (VCS) with distributed repository state control. This means that each developer has a complete copy of the repository (the directory containing all the project files and the history of changes to these files) on his local computer. This allows the development team to work on the project code simultaneously and without conflicts.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Despite the fact that proprietary software still occupies a large share of the software market in educational and corporate software, organizations are increasingly opting for open source developments, which captivate them with flexibility and cost savings.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Git is one of the most widely used version control systems in the world, and its usage statistics reflect this. Here are some Git usage statistics:
-Organizations around the world use Git for version control.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
